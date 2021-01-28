@@ -96,12 +96,15 @@ export default {
 }
 .label-title {
   font-size: 2rem;
+  color:yellow
 }
 .label-subtitle {
   font-size: 1.1rem;
+  color:white
 }
 .label-result {
   font-size: 2rem;
+  color:black
 }
 .label-classification {
   font-size: 1.5rem;
