@@ -1,4 +1,5 @@
 # calcularimc-app
+Projeto desenvolvido durante o Bootcamp de desenvolvedor Front-end (módulo Vuejs) fornecido pelo Instituto de Gestão e Tecnologia da Informação
 
 ## Project setup
 ```
